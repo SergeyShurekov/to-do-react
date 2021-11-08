@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TodoItem({title, id, completed}) {
+export default function TodoItem({ title, description, colore, id, completed }) {
   return (
     <li className="todo">
       <label>
@@ -9,7 +9,7 @@ export default function TodoItem({title, id, completed}) {
           defaultChecked={false}
         />
         <span>{title}</span>
-
+        <span>{description}</span>
         <i
           className="material-icons red-text"
         >
