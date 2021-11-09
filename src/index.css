@@ -27,3 +27,8 @@ body {
   z-index: 2;
 }
 
+.modal {
+  display: flex;
+  justify-content: center;
+  border-radius: 3px;
+}
