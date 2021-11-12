@@ -1,3 +1,6 @@
+## От автора
+Этот проект создан как тренировочный для отработки навыков владения хуками реакта.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

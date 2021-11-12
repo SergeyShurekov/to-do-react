@@ -1,7 +1,14 @@
 {
-  "name": "react-hooks",
+  "name": "to-do-react",
   "version": "0.1.0",
+  "description": "to-do-list manager",
+  "main": "index.js",
   "private": true,
+  "person": {
+    "name": "Sergey Shurekov",
+    "email": "shurekov@gmail.com",
+    "url": "https://shurekov.ru/"
+  },
   "dependencies": {
     "materialize-css": "^1.0.0-rc.2",
     "react": "^16.8.4",
@@ -14,6 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "author": "Sergey Shurekov",
   "eslintConfig": {
     "extends": "react-app"
   },

@@ -29,6 +29,9 @@ body {
 
 .modal {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   border-radius: 3px;
+  padding: 1rem;
+  z-index: 3;
 }
